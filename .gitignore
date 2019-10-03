@@ -1,5 +1,4 @@
 # Don't upload project data (private)
-input/
 
 # Ignore each project's local environment
 conda-env/
