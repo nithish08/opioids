@@ -4,6 +4,8 @@ Authors:
 * Matt Sarmiento
 
 
+DELIVERABLES:
+
 1. Slides in pdf format = output/Presentation_v_final.pdf
 2. Code output in html = ./src/*.html
 3. Raw code in ipynb = ./src/*.ipynb
