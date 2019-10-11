@@ -1,0 +1,23 @@
+Links to Data Sources
+
+https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/2017_NSSATS.pdf
+https://www.cdc.gov/drugoverdose/pdf/pubs/2018-cdc-drug-surveillance-report.pdf
+https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
+https://www.cdc.gov/nchs/data-visualization/drug-poisoning-mortality/#data-tables
+https://www.nber.org/data/vital-statistics-mortality-data-multiple-cause-of-death.html
+https://www.cdc.gov/drugoverdose/pdf/pdo_guide_to_icd-9-cm_and_icd-10_codes-a.pdf (icd9 codes for classifying opioid deaths from 1979-1998 data)
+http://www.emcdda.europa.eu/data/stats2019/drd_en (EU drug data)
+https://databank.worldbank.org/source/world-development-indicators# (EU population data)
+
+
+NYT Reference Aritcles
+
+https://www.nytimes.com/spotlight/opioid-epidemic?searchResultPosition=0
+https://www.nytimes.com/interactive/2016/01/07/us/drug-overdose-deaths-in-the-us.html
+https://www.nytimes.com/2018/08/15/upshot/opioids-overdose-deaths-rising-fentanyl.html
+https://www.nytimes.com/interactive/2018/11/29/upshot/fentanyl-drug-overdose-deaths.html
+https://www.nytimes.com/interactive/2018/02/14/upshot/opioid-crisis-solutions.html
+https://www.nytimes.com/2019/08/23/opinion/sunday/opioid-crisis-drug-seattle.html?module=inline
+https://www.nytimes.com/2017/09/22/opinion/sunday/portugal-drug-decriminalization.html?module=inline
+https://transformdrugs.org/drug-decriminalisation-in-portugal-setting-the-record-straight/ (Info about portugal’s drug policy)
+
