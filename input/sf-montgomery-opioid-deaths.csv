@@ -1,0 +1,98 @@
+"Notes"	"Year"	"Year Code"	"County"	"County Code"	Deaths	Population	Crude Rate	Age Adjusted Rate
+	"1999"	"1999"	"San Francisco County, CA"	"06075"	63	573477	11.0	11.2
+	"1999"	"1999"	"Montgomery County, OH"	"39113"	23	369069	6.2	6.3
+	"2000"	"2000"	"San Francisco County, CA"	"06075"	30	576612	5.2	5.6
+	"2000"	"2000"	"Montgomery County, OH"	"39113"	33	367160	9.0	9.1
+	"2001"	"2001"	"San Francisco County, CA"	"06075"	21	581606	3.6	3.6
+	"2001"	"2001"	"Montgomery County, OH"	"39113"	42	365083	11.5	11.7
+	"2002"	"2002"	"San Francisco County, CA"	"06075"	23	574585	4.0	4.0
+	"2002"	"2002"	"Montgomery County, OH"	"39113"	62	364160	17.0	17.5
+	"2003"	"2003"	"San Francisco County, CA"	"06075"	25	569023	4.4	4.4
+	"2003"	"2003"	"Montgomery County, OH"	"39113"	25	363861	6.9	7.1
+	"2004"	"2004"	"San Francisco County, CA"	"06075"	17	565911	Unreliable	Unreliable
+	"2004"	"2004"	"Montgomery County, OH"	"39113"	58	363373	16.0	16.1
+	"2005"	"2005"	"San Francisco County, CA"	"06075"	14	568106	Unreliable	Unreliable
+	"2005"	"2005"	"Montgomery County, OH"	"39113"	48	362307	13.2	13.6
+	"2006"	"2006"	"San Francisco County, CA"	"06075"	11	575049	Unreliable	Unreliable
+	"2006"	"2006"	"Montgomery County, OH"	"39113"	51	360677	14.1	14.8
+	"2007"	"2007"	"San Francisco County, CA"	"06075"	11	584032	Unreliable	Unreliable
+	"2007"	"2007"	"Montgomery County, OH"	"39113"	74	358068	20.7	21.3
+	"2008"	"2008"	"San Francisco County, CA"	"06075"	13	594735	Unreliable	Unreliable
+	"2008"	"2008"	"Montgomery County, OH"	"39113"	67	355168	18.9	19.6
+	"2009"	"2009"	"San Francisco County, CA"	"06075"	91	603335	15.1	14.7
+	"2009"	"2009"	"Montgomery County, OH"	"39113"	45	353133	12.7	13.6
+	"2010"	"2010"	"San Francisco County, CA"	"06075"	100	605429	16.5	16.3
+	"2010"	"2010"	"Montgomery County, OH"	"39113"	42	352690	11.9	13.1
+	"2011"	"2011"	"San Francisco County, CA"	"06075"	99	608719	16.3	16.6
+	"2011"	"2011"	"Montgomery County, OH"	"39113"	56	351651	15.9	15.9
+	"2012"	"2012"	"San Francisco County, CA"	"06075"	51	616619	8.3	8.0
+	"2012"	"2012"	"Montgomery County, OH"	"39113"	74	349231	21.2	21.8
+	"2013"	"2013"	"San Francisco County, CA"	"06075"	66	622833	10.6	10.2
+	"2013"	"2013"	"Montgomery County, OH"	"39113"	84	349258	24.1	26.5
+	"2014"	"2014"	"San Francisco County, CA"	"06075"	74	631515	11.7	10.7
+	"2014"	"2014"	"Montgomery County, OH"	"39113"	155	345133	44.9	48.7
+	"2015"	"2015"	"San Francisco County, CA"	"06075"	81	638901	12.7	12.4
+	"2015"	"2015"	"Montgomery County, OH"	"39113"	210	343282	61.2	65.4
+	"2016"	"2016"	"San Francisco County, CA"	"06075"	83	640746	13.0	12.6
+	"2016"	"2016"	"Montgomery County, OH"	"39113"	295	341651	86.3	91.6
+	"2017"	"2017"	"San Francisco County, CA"	"06075"	87	646580	13.5	12.9
+	"2017"	"2017"	"Montgomery County, OH"	"39113"	460	340296	135.2	144.9
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"States: San Francisco County, CA (06075); Montgomery County, OH (39113)"
+"Ten-Year Age Groups: 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years"
+"UCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44); Drug poisonings (overdose) Suicide"
+"(X60-X64); Drug poisonings (overdose) Homicide (X85); Drug poisonings (overdose) Undetermined (Y10-Y14)"
+"Group By: Year; County"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 11, 2019 4:37:11 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 11, 2019 4:37:11 AM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"5. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"6. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"7. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
