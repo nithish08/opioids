@@ -1,5 +1,6 @@
 
-[presentation.pdf](output/Presentation_v_final.pdf)
-
-
-<embed src="output/Presentation_v_final.pdf" type="application/pdf">
+![](output/context.png)
+![](output/fentanyl.png)
+![](output/state_choropleth.png)
+![](output/chasm.png)
+![](output/portugal.png)
